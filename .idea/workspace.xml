@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d32fd497-65f8-4026-9e88-84bb0ad6a377" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1tkLESYSqwlRfvqjls6AEIZg3Bh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cli.js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" application-parameters="add" path-to-js-file="cli.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Songen\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d32fd497-65f8-4026-9e88-84bb0ad6a377" name="Default Changelist" comment="" />
+      <created>1623308029114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623308029114</updated>
+      <workItem from="1623308030188" duration="3241000" />
+      <workItem from="1623311284044" duration="3321000" />
+      <workItem from="1623396560393" duration="6804000" />
+      <workItem from="1623996543709" duration="3885000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623311425975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="417" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1623311425975" />
+    <state x="743" y="276" key="FileChooserDialogImpl" timestamp="1623311352404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623311352404" />
+    <state x="464" y="165" key="SettingsEditor" timestamp="1623398591677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1623398591677" />
+    <state x="666" y="125" width="594" height="792" key="find.popup" timestamp="1623997111329">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="125" width="594" height="792" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1623997111329" />
+  </component>
+</project>
