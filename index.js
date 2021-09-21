@@ -59,7 +59,7 @@ function askForAction(list,index){
   }).then(answer2 => {
     const actions = {markAsUndone, markAsDone, updateTitle, remove}
     const action = actions[answer2.action]
-    action && action(list,index)
+    action && action(list, index)
 
   })
 }
